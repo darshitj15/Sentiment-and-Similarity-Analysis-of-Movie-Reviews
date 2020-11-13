@@ -13,4 +13,10 @@ Based on the review by each critic, Naive Bayes Sentiment Analyzer is used to gi
 This process is done for each review for both the movies and star rating (Bayes Rating) is achieved to compare with the actual rating. A confusion matrix is also prepared to give more insights.
 ## Similarity Analysis.
 After achieving the star rating, a similarity analysis is performed among the reviews of same critics for both the movies. Spacy and pathlib are used to perform the similarity analysis.
+
+## Confusion Matrix for Sentiment Analysis prediction
+![alt text here](ConfusionMatrixNLTK.png)
+
 **Word clouds** have also been created for the most frequent words for reviews in each movies.
+## Word Cloud for the Movie Reviews
+![alt text here](WordCloudStar.png)

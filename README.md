@@ -1,5 +1,5 @@
 # Applying-NLP-on-Movie-Reviews
-This is an introductory project using Natural Language Processing. The project takes various movie critics and their reviews to perform Sentiment Analysis to achieve a star rating and Similarity Analysis among same movie critics for different movies.
+The project applies Natural Language Processing and takes various movie critics and their reviews to perform Sentiment Analysis to achieve a star rating and Similarity Analysis among same movie critics for different movies.
 
 The analysis uses Natural Language Tool Kit (NLTK) and TextBlob library. 
 

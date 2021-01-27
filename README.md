@@ -4,7 +4,6 @@ The project applies Natural Language Processing and takes various movie critics 
 The analysis uses Natural Language Tool Kit (NLTK) and TextBlob library. 
 
 ## Creating the datasets:
-I created the datasets considering:
 There are two movies considered in the analysis and 10 famous critics who has provided a review on both of these movies. The reviews are taken from imdb and critic's own websites.
 
 ## Sentiment Analysis using Naive Bayes Analyzer
